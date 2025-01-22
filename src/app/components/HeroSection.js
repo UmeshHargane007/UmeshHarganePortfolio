@@ -63,7 +63,7 @@ function HeroSection() {
           <div className="rounded-full bg-[#181818] w-[250px] h-[250px] lg:w-[400px] lg:h-[400px] relative">
             <Image
               src="/images/Umesh Hargane img.jpeg"
-              alt="kunal-image"
+              alt="Umesh-image"
               className="absolute transform -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2 rounded-full"
               width={300}
               height={300}
